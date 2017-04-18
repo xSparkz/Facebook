@@ -1,0 +1,4 @@
+libqt4-webkit
+python-qt
+python-beautifulsoup
+python-mechanize
